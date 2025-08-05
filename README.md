@@ -1,1 +1,2 @@
-<h1 align="center">Hello, be kind, spread hope, ... be human</h1>
+<h1 align="center">Hello, fellow human, welcome to my github page...
+please be kind, spread hope and be human</h1>
